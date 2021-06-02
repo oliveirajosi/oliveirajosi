@@ -8,7 +8,7 @@
 </p>
 </br>
 </br>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
@@ -18,7 +18,7 @@
       src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-</p>
+</p> -->
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
