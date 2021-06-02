@@ -12,7 +12,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+      src="https://github-readme-stats.vercel.app/api?username=oliveirajosi"
     />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
