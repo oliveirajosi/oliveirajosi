@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="400" src="JosianeOliveira.png" />
+    <img align="left" width="400" src="JosianeOliveira.png" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="giphy.gif" />
+    <img align="right" width="300" src="giphy.gif" />
   </a>
 </p>
 </br>
