@@ -26,8 +26,8 @@
 
 - 👨‍💻 **Freelancer** desenvolvedora front-end.
 - 🌱 Graduada em análise e desenvolvimento de sistemas.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
-- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
+- 💙 Tecnologias: HTML, CSS, JavaScript, React, SASS, Git/GitHub, UX/UI e outras! 
+
 
 
 ## Skills :nerd_face:
