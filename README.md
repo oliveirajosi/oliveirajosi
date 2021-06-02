@@ -10,10 +10,6 @@
 </br>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=oliveirajosi"
-    />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
     <img
