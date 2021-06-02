@@ -25,8 +25,8 @@
 ### Meu resumo
 
 - 👨‍💻 **Freelancer** desenvolvedora front-end.
-- 🌱 Graduada em análise e desenvolvimento de sistemas.
-- 💙 Tecnologias: HTML, CSS, JavaScript, React, SASS, Git/GitHub, UX/UI e outras! 
+- 💙 Graduada em análise e desenvolvimento de sistemas e curso técnico em desenvolvimento front-end.
+
 
 
 
@@ -47,19 +47,19 @@
    
 </p>
 
-## Contact :iphone:
+## Contatos :iphone:
 
 <p align="center">
-    <a href="https://github.com/teteusAraujo">
+    <a href="https://github.com/oliveirajosi">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mateusaraujo996@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    <a href="mailto:josianeoliveirati@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josianeoliveirati@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+    <a href="https://www.linkedin.com/in/oliveirajosi">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/oliveirajosi/">
     </a>
 </p>
 
