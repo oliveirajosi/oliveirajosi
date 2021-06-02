@@ -20,12 +20,12 @@
   </a>
 </p> -->
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### Meu resumo
 
-- 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, 5° semestre.
+- 👨‍💻 **Freelancer** desenvolvedora front-end.
+- 🌱 Graduada em análise e desenvolvimento de sistemas.
 - 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
 - :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
 
