@@ -9,7 +9,7 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/oliveirajosi/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=oliveirajosi">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
