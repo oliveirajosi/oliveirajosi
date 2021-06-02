@@ -3,7 +3,7 @@
     <img align="center" width="300" src="mateus.png" />
   </a>
   <a href="#">
-    <iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG"></a></p>
+    <img align="center" width="450" src="giphy.gif" />
   </a>
 </p>
 </br>
