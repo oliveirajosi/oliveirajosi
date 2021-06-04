@@ -24,7 +24,7 @@
 
 ### Meu resumo
 
-- 👨‍💻 **Freelancer** desenvolvedora front-end.
+- 👨‍💻 **Desenvolvedora front-end**
 - 💙 Graduada em análise e desenvolvimento de sistemas e curso técnico em desenvolvimento front-end.
 
 
