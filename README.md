@@ -20,14 +20,10 @@
   </a>
 </p> -->
 
-## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Meu resumo
-
-- 👨‍💻 **Desenvolvedora front-end**
-- 💙 Graduada em análise e desenvolvimento de sistemas e curso técnico em desenvolvimento front-end.
-
-
+- 👨‍💻 **Front-End Developer**
+- 💙 Graduated in systems analysis and development and a technical course in front-end development.
 
 
 ## Skills :nerd_face:
@@ -68,7 +64,7 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/oliveirajosi/count.svg" />
  </p>
