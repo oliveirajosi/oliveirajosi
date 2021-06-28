@@ -22,7 +22,7 @@
 
 ## Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 👨‍💻 **Front-End Developer**
+<!-- - 👨‍💻 **Front-End Developer** -->
 - 💙 Graduated in systems analysis and development and a technical course in front-end development.
 
 
